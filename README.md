@@ -1,2 +1,2 @@
 # method-o-logically
-My learning notes for everything STEM.
+My learning notes for everything STEM. Initially, most of my focus will primarly be on AI and statistics related stuff. My first few notes are covering simple architectures like perceptrons and MLPs. Next, to these, since I am following some coursework at uni for which I will have to do some projects: I will also be writing about Generative Adversarial Networks (GANs) and Neural Radiance Fields (NeRF). You can expect these learning notes/projects in the next few days.
